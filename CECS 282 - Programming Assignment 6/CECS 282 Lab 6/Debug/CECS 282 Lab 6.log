@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\brandon tran\source\repos\cecs 282 lab 6\cecs 282 lab 6\main.cpp(80): warning C4018: '<': signed/unsigned mismatch
+c:\users\brandon tran\source\repos\cecs 282 lab 6\cecs 282 lab 6\main.cpp(86): warning C4018: '<': signed/unsigned mismatch
+c:\users\brandon tran\source\repos\cecs 282 lab 6\cecs 282 lab 6\main.cpp(202): warning C4018: '<': signed/unsigned mismatch
+  CECS 282 Lab 6.vcxproj -> C:\Users\Brandon Tran\source\repos\CECS 282 Lab 6\Debug\CECS 282 Lab 6.exe
+  CECS 282 Lab 6.vcxproj -> C:\Users\Brandon Tran\source\repos\CECS 282 Lab 6\Debug\CECS 282 Lab 6.pdb (Partial PDB)

@@ -1,0 +1,4 @@
+﻿  myDate.cpp
+c:\users\brandon tran\source\repos\cecs 282 - programming assignment 2\cecs 282 - programming assignment 2\mydate.cpp(194): warning C4715: 'myDate::dayName': not all control paths return a value
+  CECS 282 - Programming Assignment 2.vcxproj -> C:\Users\Brandon Tran\source\repos\CECS 282 - Programming Assignment 2\Debug\CECS 282 - Programming Assignment 2.exe
+  CECS 282 - Programming Assignment 2.vcxproj -> C:\Users\Brandon Tran\source\repos\CECS 282 - Programming Assignment 2\Debug\CECS 282 - Programming Assignment 2.pdb (Partial PDB)

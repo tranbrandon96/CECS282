@@ -1,0 +1,7 @@
+﻿  Deck.cpp
+c:\users\brandon tran\source\repos\cecs 282 - programming assignment 1\cecs 282 - programming assignment 1\deck.cpp(51): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Main.cpp
+  CECS 282 - Programming Assignment 1.vcxproj -> C:\Users\Brandon Tran\source\repos\CECS 282 - Programming Assignment 1\Debug\CECS 282 - Programming Assignment 1.exe
+  CECS 282 - Programming Assignment 1.vcxproj -> C:\Users\Brandon Tran\source\repos\CECS 282 - Programming Assignment 1\Debug\CECS 282 - Programming Assignment 1.pdb (Partial PDB)
